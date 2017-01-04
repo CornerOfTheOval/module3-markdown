@@ -13,7 +13,7 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 This allows you to modify a users permissions on a file or directory
 
-``` chmod 77 file1.txt ```
+``` chmod 777 file1.txt ```
 
 gives all permissions to the user on this file.
 
